@@ -8,7 +8,7 @@ const server = http.createServer((req, res) => {
     path: pathReq,
     query: queryReq,
     url: urlReq,
-    xhr,
+    xhr,``
     params,
     method,
     headers,
